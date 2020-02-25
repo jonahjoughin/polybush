@@ -1,4 +1,4 @@
-## PolyBush [![Build Status](https://travis-ci.org/mourner/kdbush.svg?branch=master)](https://travis-ci.org/mourner/kdbush) [![Simply Awesome](https://img.shields.io/badge/simply-awesome-brightgreen.svg)](https://github.com/mourner/projects)
+## PolyBush
 
 Forked from [KDBush](https://github.com/mourner/kdbush):
 
