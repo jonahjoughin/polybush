@@ -1,4 +1,4 @@
-## PolyBush
+## PolyBush [![Build Status](https://api.travis-ci.com/jonahjoughin/kdbush.svg?branch=master)](https://travis-ci.com/jonahjoughin/kdbush)
 
 Forked from [KDBush](https://github.com/mourner/kdbush):
 
