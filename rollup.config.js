@@ -4,7 +4,7 @@ import buble from 'rollup-plugin-buble';
 const config = (file, plugins) => ({
     input: 'src/index.js',
     output: {
-        name: 'KDBush',
+        name: 'PolyBush',
         format: 'umd',
         indent: false,
         file
@@ -13,6 +13,6 @@ const config = (file, plugins) => ({
 });
 
 export default [
-    config('kdbush.js', [buble()]),
-    config('kdbush.min.js', [terser(), buble()])
+    config('polybush.js', [buble()]),
+    config('polybush.min.js', [terser(), buble()])
 ];
