@@ -1,14 +1,14 @@
 {
-  "name": "kdbush",
+  "name": "polybush",
   "version": "3.0.0",
-  "description": "A very fast static 2D index for points based on kd-tree.",
+  "description": "A very fast static 2D index for points based on kd-tree. Forked from KDBush",
   "module": "src/index.js",
-  "main": "kdbush.js",
-  "jsdelivr": "kdbush.min.js",
-  "unpkg": "kdbush.min.js",
+  "main": "polybush.js",
+  "jsdelivr": "polybush.min.js",
+  "unpkg": "polybush.min.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mourner/kdbush.git"
+    "url": "git://github.com/jonahjoughin/polybush.git"
   },
   "devDependencies": {
     "eslint": "^5.5.0",
@@ -39,10 +39,10 @@
     "geometry"
   ],
   "files": [
-    "kdbush.js",
-    "kdbush.min.js",
+    "polybush.js",
+    "polybush.min.js",
     "src"
   ],
-  "author": "Vladimir Agafonkin",
+  "author": "Jonah Joughin, Vladimir Agafonkin",
   "license": "ISC"
 }
