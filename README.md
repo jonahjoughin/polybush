@@ -30,7 +30,7 @@ const PolyBush = require('polybush');
 Or use a browser build directly:
 
 ```html
-<script src="https://unpkg.com/kdbush@3.0.0/kdbush.min.js"></script>
+<script src="https://unpkg.com/polybush@1.0.0/polybush.min.js"></script>
 ```
 
 ## API
