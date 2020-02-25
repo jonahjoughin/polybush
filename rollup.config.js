@@ -9,15 +9,14 @@ const config = (file, plugins) => ({
         indent: false,
         file
     },
-   
     plugins
 });
 
 export default [
     config('polybush.js', [buble({
-        transforms: { forOf: false },
+        transforms: {forOf: false},
     })]),
     config('polybush.min.js', [terser(), buble({
-        transforms: { forOf: false },
+        transforms: {forOf: false},
     })])
 ];
